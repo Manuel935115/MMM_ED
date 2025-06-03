@@ -40,7 +40,7 @@ public class MMM_Coch {
 		this.consumo = consumo;
 	}
 	
-	public MMM_Cche(String matricula, String modelo, int numeroPlazas, double velocidadMedia, String tipoCombustible,
+	public MMM_Coch(String matricula, String modelo, int numeroPlazas, double velocidadMedia, String tipoCombustible,
 			Double consumo) {
 		super();
 		Matricula = matricula;
@@ -51,7 +51,7 @@ public class MMM_Coch {
 		this.consumo = consumo;
 	}
 	int NumeroPlazas;
-	 public MMM_Cche() {
+	 public MMM_Coch() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
